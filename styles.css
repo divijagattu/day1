@@ -1,0 +1,46 @@
+#navbar{
+    padding:8px;
+    margin:0 auto;
+}
+#logo{
+    width:40px;
+    margin:0;
+    padding:0;
+}
+h1{
+    text-align:center;
+    color:rgb(50,60,50);
+}
+h3{
+    text-align:center;
+    color:grey;
+}
+#ms{
+    object-fit:cover;
+    width:100%;
+}
+#matter{
+    font-size:x-large;
+}
+#abc li{
+    list-style:none;
+    padding:10px;
+    margin:0 auto;
+}
+#footer li{
+    display:inline;
+    padding:60px;
+    margin:0 auto;
+}
+
+    
+#copy{
+    margin:0 auto;
+    text-align:center;
+}
+    
+#foot {
+    margin-top:0 auto;
+    max-width:800px;
+    text-align:center;
+}
